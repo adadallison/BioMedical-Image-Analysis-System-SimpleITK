@@ -12,5 +12,8 @@ Similarity metric, mutual information (Mattes MI), Interpolator sitkLinear(), Op
 Descent– I was able to improve the spatial correspondence between sepcific coordinate points on the
 CT Scan of the COVID-19 patient. 
 
-The .ipynb file will not properly display the GUI's seen in the HTML file since the original CT
-Scans are not attatched but the code can still be seen and applied.
+# How To View Notebook:
+Download code as a ZIP File and open the .html file to see the non-interactive Jupyter Notebook.
+To view the actual code in Jupyter Notebook, make sure Jupyter Notebook is installed and open the
+.ipynb file. The notebook will not properly display the GUI since the image configuration/location
+is not the same.
