@@ -17,4 +17,4 @@ CT Scan of the COVID-19 patient.
 Download code as a ZIP File and open the .html file to see the non-interactive Jupyter Notebook.
 To view the actual code in Jupyter Notebook, make sure Jupyter Notebook is installed and open the
 .ipynb file. The notebook will not properly display the GUI since the image configuration/location
-is not the same.
+is not the same but the code can be viewed and applied to other images.
