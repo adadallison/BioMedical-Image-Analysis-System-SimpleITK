@@ -1,6 +1,6 @@
 # BioMedical-Image-Analysis-System-SimpleITK
 
-This work was presented for a BioMedical Imaging Class at SFSU.
+This work was presented for a BioMedical Imaging Class at SFSU in Spring 2021.
 ### The assignment:
 We will target building and experimenting a system that analyzes chest CT scans of Covid-19 patients. Each group will consist of about 5-6 students including graduate students who may act as team leads who mentor other undergraduate members. With data provided, each group will identify, design, implement and evaluate specific data analysis algorithms. For coding platform, students will use Insight Segmentation and Registration Toolkit (ITK: http://www.itk.org/) with C++ or (SimpleITK: https://simpleitk.org/TUTORIAL) with Python.
 
