@@ -10,4 +10,4 @@ Descent– I was able to improve the spatial correspondence between sepcific coo
 CT Scan of the COVID-19 patient. 
 
 The .ipynb file will not properly display the GUI's seen in the HTML file since the original CT
-Scans are not attatched.
+Scans are not attatched but the code can still be seen and applied.
